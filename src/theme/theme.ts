@@ -19,6 +19,7 @@ export const theme = createTheme({
   },
   typography: {
     fontFamily: [
+      'Poppins',
       'Inter',
       '-apple-system',
       'BlinkMacSystemFont',
